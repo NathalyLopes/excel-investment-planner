@@ -118,6 +118,8 @@ Com esta ferramenta desenvolvida em Excel, qualquer pessoa pode simular, entende
 
 Este projeto foi desenvolvido como parte de uma trilha de aprendizagem prática na DIO (Digital Innovation One), uma plataforma de educação tecnológica que conecta estudantes e profissionais com experiências reais do mercado. Ao aplicar os conhecimentos adquiridos na DIO, foi possível transformar teoria em uma solução útil e aplicável à vida financeira de qualquer investidor.
 
+## Imagens da Ferramenta 
+
 ![image](https://github.com/user-attachments/assets/77be6c0d-d03a-477f-b626-360901f62aa7)
 ![image](https://github.com/user-attachments/assets/b30ac954-3986-4e26-b17b-4c675ca16e22)
 ![image](https://github.com/user-attachments/assets/d12cd22a-398a-49ae-98a5-d0a307baf794)
